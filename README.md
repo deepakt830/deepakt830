@@ -7,7 +7,7 @@ Greetings! I'm Deepak Tiwari, a dedicated and skilled Full Stack Developer with 
 
 Feel free to reach out and connect on various platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isonusharma) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16974517) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/deepakt830) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-tiwari-deepu/)
 
 ## 💼 Skill Set & Expertise:
 
@@ -67,7 +67,7 @@ Here's a glimpse of my GitHub achievements:
 ## ✍️ Quote of the visit :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
+<!---
 ## 💰 Support My Work:
 
 If you find value in my contributions, consider supporting me:
@@ -75,5 +75,6 @@ If you find value in my contributions, consider supporting me:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/deepakt830) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/deepakt830)
 
 Your support fuels my motivation to continue creating impactful software solutions. Thank you for visiting!
+-->
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=deepakt830&icon=5&color=6)
