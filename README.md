@@ -16,9 +16,9 @@ With years of experience, my skills encompass a wide spectrum:
 - **ASP.NET Web API**: Proficiently creating robust and scalable APIs.
 - **API Development**: Designing and implementing seamless APIs for smooth application integration.
 - **RESTful APIs**: Crafting industry-standard RESTful APIs following best practices.
-- **Node.js**: Skilled in building scalable applications using Node.js.
+<!---- **Node.js**: Skilled in building scalable applications using Node.js. -->
 - **Visual Studio**: Proficient with Visual Studio IDE for efficient software development.
-- **Linux Server**: Adept at managing and deploying applications on Linux servers.
+<!---- **Linux Server**: Adept at managing and deploying applications on Linux servers. -->
 - **Entity Framework (EF) Core**: Expertise in data access and management using EF Core.
 - **MVC Core**: Building responsive and user-friendly web applications with MVC Core.
 - **Microsoft Azure**: Leveraging Azure services for cloud-based solutions.
@@ -26,7 +26,7 @@ With years of experience, my skills encompass a wide spectrum:
 - **ASP.NET**: Developing dynamic web applications with the ASP.NET framework.
 - **jQuery**: Proficient in efficient client-side scripting with jQuery.
 - **HTML5**: Creating modern, interactive web pages with HTML5.
-- **Microsoft Office**: Utilizing Office applications for effective documentation and collaboration.
+<!---- **Microsoft Office**: Utilizing Office applications for effective documentation and collaboration. -->
 - **SQL**: Crafting precise SQL queries for effective database management.
 - **Microsoft SQL Server**: Managing databases using Microsoft SQL Server.
 - **AJAX**: Familiarity with AJAX for seamless client-server communication.
